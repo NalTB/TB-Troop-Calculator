@@ -9,3 +9,21 @@ This is a very much work in progress. The level selection at the moment is kind 
 This is available to all. Feel free to branch it and make changes to it. Let me know if you have any other ideas and if they're in my wheel house, I'll try to add them.
 
 -Nalmerin
+
+
+Installation/Usage:
+
+Windows:
+I made a portable version of the script, that doesn't require installing anything or needing to know how to use python.
+1. Download "Portable Version for Windows" I've included a zipped and a unzipped copy, whatever is easy for you.
+2. Unzip the file if you downloaded that copy, otherwise.
+3. Open the folder and navigate to "dist".
+4. Click on 'tb_troop_calculator'.
+5. The calculator will open and ready to use.
+
+Manually running the script:
+1. Make sure to have Python 3.10 or newer installed.
+2. Open a CMD window, and cd to the directory where the .py file is located.
+3. Once in the same directory, run 'python tb_troop_calculator.py'
+4. Would likely skip these steps if you never used python before. Might need to install tkinter to make it work if you don't already have the package installed. 'pip install tkinter'
+
