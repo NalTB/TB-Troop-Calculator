@@ -27,6 +27,6 @@ Manually running the script:
 3. Once in the same directory, run 'python tb_troop_calculator.py'
 4. Would likely skip these steps if you never used python before. Might need to install tkinter to make it work if you don't already have the package installed. 'pip install tkinter'
 
-5. Mac:
-6. Unfortunately don't have access to a Mac computer right now, so you're on your own.
+Mac:
+Unfortunately don't have access to a Mac computer right now, so you're on your own.
 
